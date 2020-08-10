@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "portabilidad"
+    }
+  },
+  "defaultProject": "portabilidad",
+  "cli": {
+    "analytics": "fddcb734-0687-4a19-aaea-874567fedf7e"
+  }
 }
